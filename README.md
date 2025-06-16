@@ -5,7 +5,6 @@ This project contains an executable JAR file for a dynamic schema-based form bui
 ## Prerequisites
 
 - Java Runtime Environment (JRE) installed (Version 8 or later)
-- Ensure the required dependencies are available (if applicable)
 
 ## Running the JAR File
 
@@ -15,5 +14,6 @@ This project contains an executable JAR file for a dynamic schema-based form bui
 
    ```sh
    java -jar form-builder-0.0.1-SNAPSHOT.jar
+   ````
 4.This will connect to the mongodb database and ready to connect to the frontend when available
 5.press control + c to stop the server.
